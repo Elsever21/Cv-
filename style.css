@@ -197,15 +197,23 @@ body {
   top: 14px;
   left: -21px;
   width: 2px;
-  height: 115px;
+  height: 200px;
   background: #0bb5f4;
 }
 
 .resume .resume_right .resume_hobby ul {
   display: flex;
   justify-content: space-between;
+  padding-top: 10px;
 }
-
+.resume  h3{
+  width: 100%;
+  height: 40px;
+  padding-top: 20px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
 .resume .resume_right .resume_hobby ul li {
   width: 80px;
   height: 80px;
